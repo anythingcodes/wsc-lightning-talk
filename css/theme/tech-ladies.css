@@ -299,3 +299,7 @@ body {
   text-align: center; }
   .reveal footer img {
     max-height: 8vh; }
+
+.reveal .orange {
+  color: #da9b57;
+}
